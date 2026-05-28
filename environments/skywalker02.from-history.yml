@@ -1,0 +1,30 @@
+name: skywalker02
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - mamba
+  - xarray
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - tqdm
+  - joblib
+  - dask
+  - gsw
+  - gsw-xarray
+  - pytorch-cpu
+  - torchvision-cpu
+  - tensorflow
+  - keras
+  - lightning
+  - hydra
+  - infomap
+  - eccodes
+  - python-eccodes
+  - cfgrib
+  - hdbscan
+  - xesmf
