@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ROHAN project data and generated outputs
+/cache/
+/data/
+/detection_3d_tropical/
+/figures/
+/output/
+/results/
+/tmp/
+
+# Scientific data artifacts
+*.nc
+*.grib
+*.h5
+*.hdf5
+*.zarr
+
+# Generated content inside scripts
+scripts/**/output/
+scripts/**/cache/
+scripts/**/figures/
+scripts/**/__pycache__/
+scripts/**/.ipynb_checkpoints/
+scripts/**/.git/
