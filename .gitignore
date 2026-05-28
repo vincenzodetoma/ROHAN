@@ -245,3 +245,4 @@ scripts/**/.git/
 scripts/**/slurm-*.out
 scripts/**/*.log
 scripts/**/*.bak
+scripts/from_hobday/violin_depth_exp_*.png
