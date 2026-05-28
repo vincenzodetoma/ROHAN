@@ -1,0 +1,8 @@
+__pycache__
+*.nc
+*.csv
+*.png
+*.txt
+*.log
+*.out
+

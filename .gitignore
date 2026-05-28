@@ -240,3 +240,8 @@ scripts/**/figures/
 scripts/**/__pycache__/
 scripts/**/.ipynb_checkpoints/
 scripts/**/.git/
+
+# HPC and temporary artifacts
+scripts/**/slurm-*.out
+scripts/**/*.log
+scripts/**/*.bak
