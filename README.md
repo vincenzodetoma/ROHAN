@@ -3,6 +3,8 @@
 Regional and Oceanic Heatwave Analysis Network
 
 A Python suite for subsurface marine heatwave characterization in ocean reanalyses.
+DISCLAIMER: This repository is under development. For specifics about the usage 
+write a mail to vincenzo.detoma@cnr.it.
 
 ## Project goals
 
